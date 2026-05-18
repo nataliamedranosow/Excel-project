@@ -1,5 +1,3 @@
 # Excel-project
 Excel project sales
-In this project
-I gathered some data from a bike company and used excel to work on it
-I cleaned all the data and later created some pivot tables and dashboards to show all the work done and insights of buyers 
+In this project built entirely in Microsoft Excel, I explored the demographic and behavioral factors that influence bike purchasing decisions across thousands of customers. The project covers the full data workflow: raw data ingestion, cleaning and transformation, aggregation via pivot tables, and final visualization via an interactive dashboard.
