@@ -44,4 +44,10 @@ Created an Age Bracket column: Rather than working with raw ages, I grouped cust
 
   Bar chart — Purchase Count by Age Bracket: Compares purchase volumes across the three age groups, immediately surfacing the dominance of the middle-age    segment.
      
-   
+
+   Key Finds:
+    Income matters: Bike buyers consistently earn more than non-buyers, regardless of gender.
+    Short commutes drive purchases: The majority of buyers commute less than 2 miles, reinforcing the use case of cycling as a last solution.
+    Middle-aged buyers dominate: The 35–59 age group accounts for the largest share of bike purchases despite being the most price sensitive in terms of       income dispersion.
+    Long commuters rarely buy: Customers commuting 10+ miles are the least likely to purchase a bike, likely due to the other modes of transport for           longer distances
+
