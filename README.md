@@ -35,4 +35,13 @@ Created an Age Bracket column: Rather than working with raw ages, I grouped cust
     Insights present Middle-aged customers (35–59) made up the largest segment of bike buyers (351 purchases), while younger adults (25–34) and older          customers (60+) purchased far less. 
 
    
-4) Dashboard: The last part of the work I make visual summary from the pivot tables I created earlier. To show patterns or trends in a way that it's easy to understan for those not too savvy with the data
+4) Dashboard: The last part of the work I make visual summary from the pivot tables I created earlier. To show patterns or trends in a way that it's easy to understan for those not too technical with the data
+    Charts I used:
+
+  Bar chart — Average Income by Gender & Purchase: Compares income levels across four customer segments (Male/Female × Buyer/Non-Buyer), making the income   gap between buyers and non-buyers easy to read
+
+  Line chart — Purchase Count by Commute Distance: Tracks how bike purchase rates change across commute distance bands. I chose the line format              because commute distance has a natural order, and the downward trend as distance increases is clearly visible
+
+  Bar chart — Purchase Count by Age Bracket: Compares purchase volumes across the three age groups, immediately surfacing the dominance of the middle-age    segment.
+     
+   
